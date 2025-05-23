@@ -1,0 +1,4 @@
+/* src/index.css - This file should ONLY contain these three lines */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
